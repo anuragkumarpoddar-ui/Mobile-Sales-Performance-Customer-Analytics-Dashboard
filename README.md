@@ -294,45 +294,117 @@ Users can filter the dashboard by:
 
 These filters allow users to drill down into specific segments and explore the data interactively.
 
+
 ---
+# ❓ Business Questions & Key Findings
 
-# ❓ Business Questions Answered
-
-The dashboard was designed around practical business questions rather than simply displaying charts.
+The dashboard was designed to answer practical business questions and translate transactional sales data into actionable insights rather than simply presenting visualizations.
 
 ## 💰 Sales Performance
 
-* What is the overall sales performance?
-* How many mobile units were sold?
-* How many transactions occurred?
-* What is the average selling price?
+### What is the overall sales performance?
+
+The dashboard provides a consolidated view of total sales, total quantity sold, transaction volume, and average selling price, allowing stakeholders to quickly assess overall business performance.
+
+### How many mobile units were sold?
+
+The **Total Quantity** KPI measures the overall number of mobile units sold across all transactions and provides an overview of sales volume.
+
+### How many transactions occurred?
+
+The **Transactions** KPI tracks the total number of sales transactions, helping measure customer purchase activity and overall transaction volume.
+
+### What is the average selling price?
+
+The **Average Price** KPI calculates the average price per mobile unit, providing an indication of the overall pricing level across the analyzed transactions.
+
+---
 
 ## 📱 Product Performance
 
-* Which mobile brand generates the highest sales?
-* Which mobile models perform best?
-* Which brands generate the highest sales quantity?
-* Which products contribute most to overall revenue?
+### Which mobile brand generates the highest sales?
+
+**Apple recorded the highest overall sales value at approximately ₹161.6M**, followed by Samsung at approximately ₹160.0M.
+
+This indicates that Apple was the strongest-performing brand by sales value among the five brands analyzed.
+
+### Which mobile models perform best?
+
+The mobile model analysis enables identification of the models contributing the most to total sales and quantity, helping distinguish high-performing products from lower-performing models.
+
+### Which brands generate the highest sales quantity?
+
+Brand-level quantity analysis allows businesses to compare sales volume across brands and understand whether higher revenue is driven by greater unit volume or higher-priced products.
+
+### Which products contribute most to overall revenue?
+
+The model and brand performance analysis highlights the products contributing most to total sales, helping identify key revenue-generating products that may deserve greater business focus.
+
+---
 
 ## 🌍 Geographic Performance
 
-* Which cities contribute the most revenue?
-* Where are sales concentrated geographically?
-* Which locations represent stronger sales markets?
+### Which cities contribute the most revenue?
+
+**Delhi emerged as the strongest-performing city, generating approximately ₹203.9M in sales**, followed by Mumbai at approximately ₹127.2M.
+
+This indicates a significant difference in sales contribution across cities.
+
+### Where are sales concentrated geographically?
+
+Sales are **geographically concentrated**, with Delhi and Mumbai contributing substantially more sales than several other cities in the dataset.
+
+This highlights the importance of geographic segmentation when evaluating market performance.
+
+### Which locations represent stronger sales markets?
+
+Delhi and Mumbai stand out as the strongest sales markets in the analyzed dataset, indicating potentially higher customer demand and stronger market activity in these locations.
+
+---
 
 ## 👥 Customer Behavior
 
-* Which payment method is most frequently used?
-* What is the distribution of customer ratings?
-* Are there noticeable differences in purchasing behavior across products?
+### Which payment method is most frequently used?
+
+**UPI recorded the highest transaction volume with approximately 1,011 transactions**, followed by Debit Card (948), Credit Card (947), and Cash (929).
+
+This indicates that UPI was the most frequently used payment method in the dataset.
+
+### What is the distribution of customer ratings?
+
+The customer rating analysis provides a view of rating distribution across transactions, helping identify the most common customer rating levels and overall customer feedback patterns.
+
+### Are there noticeable differences in purchasing behavior across products?
+
+The dashboard allows users to compare product performance, transaction activity, payment methods, and customer ratings across different brands and models. These comparisons help identify variations in customer purchasing behavior across products.
+
+---
 
 ## 📅 Time Analysis
 
-* How does sales activity change over time?
-* Which days generate higher sales?
-* Are there identifiable sales patterns across different periods?
+### How does sales activity change over time?
+
+The sales trend analysis provides a time-based view of sales activity from **2021 to 2024**, allowing stakeholders to identify changes, peaks, and lower-activity periods across the analyzed timeframe.
+
+### Which days generate higher sales?
+
+The day-of-week analysis compares sales activity across different days and helps identify days with relatively higher or lower sales and transaction activity.
+
+### Are there identifiable sales patterns across different periods?
+
+The time-based visualizations provide a foundation for identifying recurring sales patterns, changes in demand, and periods of higher or lower activity. These patterns can support further investigation into seasonality and customer purchasing trends.
 
 ---
+
+## 💡 Overall Business Takeaways
+
+The analysis highlights three key findings:
+
+- 🏆 **Apple** was the highest-performing brand by sales value, with approximately **₹161.6M** in sales.
+- 🌆 **Delhi** was the strongest-performing city, generating approximately **₹203.9M** in sales.
+- 💳 **UPI** was the most frequently used payment method, accounting for approximately **1,011 transactions**.
+
+These findings demonstrate how the dashboard can help stakeholders move from **raw transactional data to measurable business insights** across product, geographic, customer, and time dimensions.
 
 # 🔍 Key Business Insights
 
@@ -531,13 +603,14 @@ The project demonstrates how **data cleaning, transformation, DAX, and visualiza
 
 ---
 
-# 📌 Conclusion
 
-The **Mobile Sales Performance & Customer Analytics Dashboard** provides a comprehensive view of mobile sales performance across products, brands, cities, customers, payment methods, and time periods.
+## 📌 Conclusion
 
-The analysis highlights **Apple as the leading brand by sales value, Delhi as the strongest sales market, and UPI as the most frequently used payment method** within the analyzed dataset.
+The **Mobile Sales Performance & Customer Analytics Dashboard** provides a comprehensive view of sales performance across brands, mobile models, cities, payment methods, customer ratings, and time periods. By transforming and validating **3,835 transaction records** and applying **Power Query, DAX, and interactive Power BI visualizations**, the project converts raw sales data into meaningful business insights.
 
-Overall, the project demonstrates an end-to-end **Power BI data analytics workflow**, from raw-data validation and transformation to dashboard development and business insight generation.
+The analysis indicates that **Apple generated the highest overall sales value**, while **Delhi emerged as the strongest-performing city**, highlighting significant geographic concentration in sales. Among payment methods, **UPI recorded the highest transaction volume**, reflecting a strong preference for digital payments within the analyzed dataset. The dashboard also enables comparison of brand and model performance, customer ratings, and day-level sales activity to identify variations in customer behavior and sales patterns.
+
+Overall, the project demonstrates how **data cleaning, transformation, analytical modeling, DAX, and business intelligence visualization** can be combined to support data-driven decision-making. The dashboard can help business stakeholders **monitor sales performance, identify high-performing markets and products, understand customer purchasing behavior, and uncover areas requiring further investigation or strategic action**.
 
 ---
 
