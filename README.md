@@ -468,7 +468,7 @@ Business Insights
 
 ![Mobile Sales Performance & Customer Analytics Dashboard](<img width="1324" height="742" alt="Mobile Sales Performance   Customer Analytics Dashboard" src="https://github.com/user-attachments/assets/854ba7f5-fc6e-402e-bb27-4adcf19d6951" />
 )
-```
+
 
 ### GitHub Repository Structure
 
