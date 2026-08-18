@@ -466,10 +466,9 @@ Business Insights
 
 # 📊 Dashboard Preview
 
-> Add your Power BI dashboard screenshot here.
-
 ```markdown
-![Mobile Sales Performance & Customer Analytics Dashboard](images/mobile-sales-dashboard.png)
+![Mobile Sales Performance & Customer Analytics Dashboard](<img width="1324" height="742" alt="Mobile Sales Performance   Customer Analytics Dashboard" src="https://github.com/user-attachments/assets/854ba7f5-fc6e-402e-bb27-4adcf19d6951" />
+)
 ```
 
 ### Recommended GitHub Repository Structure
@@ -550,10 +549,10 @@ Overall, the project demonstrates an end-to-end **Power BI data analytics workfl
 **Data Analyst | Power BI | SQL | Python | Excel | Data Visualization**
 
 <p>
-  <a href="https://github.com/">
+  <a href="https://github.com/anuragkumarpoddar-ui">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/anurag-kumar-poddar-51239596/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
