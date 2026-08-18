@@ -466,12 +466,11 @@ Business Insights
 
 # 📊 Dashboard Preview
 
-```markdown
 ![Mobile Sales Performance & Customer Analytics Dashboard](<img width="1324" height="742" alt="Mobile Sales Performance   Customer Analytics Dashboard" src="https://github.com/user-attachments/assets/854ba7f5-fc6e-402e-bb27-4adcf19d6951" />
 )
 ```
 
-### Recommended GitHub Repository Structure
+### GitHub Repository Structure
 
 ```text
 Mobile-Sales-Performance-Customer-Analytics/
