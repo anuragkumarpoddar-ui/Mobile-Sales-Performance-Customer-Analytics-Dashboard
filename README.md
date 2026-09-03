@@ -603,7 +603,6 @@ The project demonstrates how **data cleaning, transformation, DAX, and visualiza
 
 ---
 
-
 ## 📌 Conclusion
 
 The **Mobile Sales Performance & Customer Analytics Dashboard** provides a comprehensive view of sales performance across brands, mobile models, cities, payment methods, customer ratings, and time periods. By transforming and validating **3,835 transaction records** and applying **Power Query, DAX, and interactive Power BI visualizations**, the project converts raw sales data into meaningful business insights.
